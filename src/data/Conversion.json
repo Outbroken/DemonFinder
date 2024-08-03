@@ -1,0 +1,120 @@
+{
+    "DifficultyToHex": [
+        "#DDDFEE",
+        "#D5D3E9",
+        "#D3CBE7",
+        "#D3C3E4",
+        "#D4BBE2",
+        "#D5B0DE",
+        "#DBA7DC",
+        "#DB9FD1",
+        "#D991C1",
+        "#DA86B0",
+        "#DB7698",
+        "#DC6A7D",
+        "#DD5A5A",
+        "#DC514C",
+        "#DA493E",
+        "#DA4534",
+        "#D93E26",
+        "#CD3F23",
+        "#C03A1B",
+        "#B23415",
+        "#A23010",
+        "#9B2B0C",
+        "#932B0B",
+        "#892608",
+        "#832607",
+        "#752105",
+        "#6C1E04",
+        "#601A02",
+        "#5A1802",
+        "#511700",
+        "#491900",
+        "#3F1A00",
+        "#331700",
+        "#231300",
+        "#110A00"
+    ],
+
+    "EnjoymentToHex": [
+        "#E67C73",
+        "#EA8B71",
+        "#EE9A6F",
+        "#F2A96D",
+        "#F6B86B",
+        "#FAC769",
+        "#FFD666",
+        "#D5D06F",
+        "#ABC978",
+        "#81C281",
+        "#57BB8A"
+    ],
+
+    "RatedDifficultyToString": [
+        "Main-Demon",
+        "Easy Demon",
+        "Medium Demon",
+        "Hard Demon",
+        "Insane Demon",
+        "Extreme Demon"
+    ],
+
+    "DifficultyTierToString": [
+        "Easy Demon (Low)",
+        "Easy Demon (Low-Mid)",
+        "Easy Demon (Mid)",
+        "Easy Demon (Mid-High)",
+        "Easy Demon (High)",
+
+        "Medium Demon (Low)",
+        "Medium Demon (Low-Mid)",
+        "Medium Demon (Mid)",
+        "Medium Demon (Mid-High)",
+        "Medium Demon (High)",
+
+        "Hard Demon (Low)",
+        "Hard Demon (Low-Mid)",
+        "Hard Demon (Mid)",
+        "Hard Demon (Mid-High)",
+        "Hard Demon (High)",
+
+        "Insane Demon (Low)",
+        "Insane Demon (Low-Mid)",
+        "Insane Demon (Mid)",
+        "Insane Demon (Mid-High)",
+        "Insane Demon (High)",
+
+        "Extreme Demon (Low)",
+        "Extreme Demon (Low)",
+        "Extreme Demon (Low)",
+        "Extreme Demon (Mid)",
+        "Extreme Demon (Mid)",
+
+        "Extreme Demon (Mid)",
+        "Extreme Demon (High)",
+        "Extreme Demon (High)",
+        "Extreme Demon (High)",
+        "Extreme Demon (Very-High)",
+
+        "Extreme Demon (Very-High)",
+        "Extreme Demon (Very-High)",
+        "Extreme Demon (Top)",
+        "Extreme Demon (Top)",
+        "Extreme Demon (Top)"
+    ],
+
+    "EnjoymentTierToString": [
+        "Horrible",
+        "Awful",
+        "Very Bad",
+        "Bad",
+        "Subpar",
+        "Average",
+        "Fair",
+        "Good",
+        "Great",
+        "Amazing",
+        "Peak"
+    ]
+}
