@@ -4,6 +4,10 @@ import { defineConfig } from "vite"
  
 export default defineConfig({
     base: "/DemonFinder/",
+    build: {
+        outDir: '../build',
+        emptyOutDir: true,
+    },
     plugins: [react()],
     resolve: {
     alias: {

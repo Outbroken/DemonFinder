@@ -43,7 +43,7 @@ export default function BottomBar(props: Props) {
     };
 
     return (
-        <div className="sticky fixed backdrop-blur-sm w-full p-5 bottom-0">
+        <div className="sticky backdrop-blur-sm w-full p-5 bottom-0">
             <div className="flex items-center justify-center">
                 <div className="flex items-center justify-start grow">
                     <Dialog>

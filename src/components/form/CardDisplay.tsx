@@ -19,7 +19,7 @@ interface Props {
 
 export default function CardDisplay(props: Props) {
     return (
-        <div className="p-5 pt-16 pb-20 grid justify-center sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 basis-full gap-8">
+        <div className="p-5 pt-16 grid justify-center sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 basis-full gap-8">
             {props.List.length === 0 ? (
                 <Label className="pl-1">No results match your search.</Label>
             ) : (

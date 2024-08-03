@@ -9,4 +9,4 @@ https://docs.google.com/spreadsheets/d/1xaMERl70vzr8q9MqElr4YethnV15EOe8oL1UV9LL
 
 Credit goes to the demon ladder staff and all of those that have submitted there thoughts.
 
-![screenshot should be here](https://github.com/Outbroken/DemonFinder/blob/main/assets/GithubScreenshot.png?raw=true)
+![screenshot should be here](https://github.com/Outbroken/DemonFinder/blob/gh-pages/assets/GithubScreenshot.png?raw=true)
